@@ -30,11 +30,11 @@ ii. Non-Functional Requirements:
 
 Q.2. Identify scope, features and non-functional aspects of the following problem.
 
--Scope: 
+i. Scope: 
 
 -Hearing-loss disorder affects a large number of people. To help such people, an application that works on Android using artificial intelligence is developed in order to make hearing-impaired people identify various noises associated with their day-to-day life.
 
--Features or Functional Aspects:
+ii. Features or Functional Aspects:
 
 -Uses Artificial intelligence.
 
@@ -42,7 +42,7 @@ Q.2. Identify scope, features and non-functional aspects of the following proble
 
 -Immediate alerts issued upon detection of the aforementioned sounds.
 
--Functional Aspects:
+iii. Non-Functional Aspects:
 
 -Is optimized for Android only.
 
